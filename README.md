@@ -32,4 +32,4 @@ Rozpoznávání hudby hrající na tvém PC. Prostě rozbal a spusť!
 
 ## Licence
 
-Pro osobní použití. Vytvořeno pro kamarády. 🤝
+Pro osobní použití. 🤝
