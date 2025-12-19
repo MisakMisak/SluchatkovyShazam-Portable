@@ -6,7 +6,10 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-**Rozpoznávání hudby hrající na tvém PC bez mikrofonu i se sluchátky!**
+**Poznáš konečně tu epickou skladbu z Netflixu! 🎬**
+
+Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchátka!
+*Žádný mikrofon, žádné komplikace. Prostě to funguje.*
 
 </div>
 
@@ -17,7 +20,7 @@
 👉 **[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**
 
 > [!WARNING]
-> Tento software je dostupný pouze oprávněným uživatelům s přístupovým heslem.
+> Soukromý projekt s heslem. Bez hesla se nedostaneš dovnitř. 🔐
 
 ## 🚀 Instalace
 
@@ -26,7 +29,7 @@
 3. **Spusť** `SluchatkovyShazam.exe`
 
 > [!TIP]
-> Při prvním spuštění ti Windows Defender může zobrazit varování - to je normální u nepodepsaných aplikací.
+> Při prvním spuštění může Windows Defender zobrazit varování. Klikni na "Více informací" → "Přesto spustit". To je normální u soukromých projektů bez certifikátu.
 
 ## ✨ Funkce
 
@@ -35,9 +38,10 @@
 <td width="50%">
 
 ### 🎵 Rozpoznávání
-- **Okamžité** rozpoznání hudby
-- Funguje s **reproduktory i sluchátky**
-- Využívá **Shazam API**
+- **Soundtracky z filmů a seriálů** (Netflix, HBO, Disney+)
+- Funguje **i se sluchátky** na uších
+- **Okamžité** rozpoznání přes **Shazam API**
+- Zachytává systémový audio výstup
 
 ### 📊 Historie & Stats
 - **Kompletní historie** všech skladeb
@@ -122,16 +126,103 @@ Aktuální verze dostupná v [Releases](https://github.com/MisakMisak/Sluchatkov
 
 ---
 
+## ❓ Často kladené otázky (FAQ)
+
+<details>
+<summary><b>Funguje to s Netflixem/HBO/Disney+/Prime Video?</b></summary>
+
+✅ **Ano!** To je přesně hlavní účel aplikace. Rozpozná soundtrack z jakéhokoliv videa, které běží na tvém PC.
+
+</details>
+
+<details>
+<summary><b>Musím mít zapnutý zvuk nahlas?</b></summary>
+
+❌ **Ne!** Aplikace zachytává systémový audio výstup přímo z Windows. Funguje i když:
+- Máš sluchátka na uších
+- Máš ztlumený zvuk
+- Nikdo jiný v místnosti nic neslyší
+
+</details>
+
+<details>
+<summary><b>Jak rychle to pozná skladbu?</b></summary>
+
+⚡ **Cca 2-3 sekundy** od spuštění rozpoznávání. Nech skladbu hrát aspoň 5-10 sekund pro nejlepší výsledky.
+
+</details>
+
+<details>
+<summary><b>Vidí Netflix/streaming služba, že něco zachytávám?</b></summary>
+
+❌ **Ne!** Aplikace jenom "naslouchá" audio výstupu Windows (stejně jako když nahráváš audio z PC). Streaming služba to nijak nedetekuje.
+
+</details>
+
+<details>
+<summary><b>Kde vzít přístupové heslo?</b></summary>
+
+🔒 **Známe se?** Máš ho.
+🔒 **Neznáme se?** Nemáš ho. 😉
+
+Soukromý projekt pro kámoše, bez výjimek.
+
+</details>
+
+<details>
+<summary><b>Ukládá se historie někam do cloudu?</b></summary>
+
+❌ **Ne!** Vše zůstává lokálně na tvém PC. Žádná telemetrie, žádné odesílání dat (kromě dotazů na Shazam API pro rozpoznání).
+
+</details>
+
+---
+
+## 🔧 Řešení problémů
+
+### "Aplikace se nespustí / Windows Defender blokuje"
+
+Windows Defender často blokuje nepodepsané aplikace. To je normální chování:
+
+1. Klikni na **"Více informací"**
+2. Klikni na **"Přesto spustit"**
+3. Hotovo ✅
+
+> [!NOTE]
+> Aplikace není podepsaná certifikátem (stojí stovky dolarů ročně). Je to normální u soukromých projektů.
+
+### "Nerozpozná hudbu z videa"
+
+Zkontroluj následující:
+
+- ✅ **Zvuk opravdu hraje** (i když ztlumený, musí běžet)
+- ✅ **Nech hrát aspoň 5-10 sekund** před pokusem o rozpoznání
+- ✅ **Některé intro/outro skladby jsou krátké** - zkus později v písničce
+- ✅ **Restartuj aplikaci**, pokud jsi změnil audio zařízení (sluchátka)
+
+### "Historie se nesynchronizuje mezi PC"
+
+Aplikace je **portable** - data jsou uložená vedle EXE souboru. Každé PC má vlastní historii.
+
+Pokud chceš sdílet historii:
+1. Zkopíruj celou složku `SluchatkovyShazam` na USB
+2. Nebo použij cloud sync (OneDrive, Dropbox) na složku s aplikací
+
+---
+
 ## 📄 Licence
 
 > [!IMPORTANT]
-> **Proprietary - All Rights Reserved**
+> **Soukromý projekt - Jen pro kámoše 🔒**
 >
-> Tento software je **soukromý projekt**. Stahování a použití je povoleno pouze oprávněným osobám s přístupovým heslem.
+> Toto je můj osobní projekt. Používej to v pohodě, pokud máš heslo.
 >
-> ❌ Neautorizované použití zakázáno
-> ❌ Kopírování zakázáno
-> ❌ Distribuce zakázána
+> **Ale:**
+> - ❌ Nesdílej heslo s cizíma lidma
+> - ❌ Nenahrávej to nikam (torenty, file sharery, atd.)
+> - ❌ Neprodávej to (wtf?)
+>
+> Respektuj to, díky. ✌️
 >
 > © 2025 All rights reserved.
 
