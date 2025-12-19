@@ -101,6 +101,6 @@
 
 <div align="center">
 
-**Vytvořeno s ❤️ pro kamarády**
+**Vytvořeno pro kamarády**
 
 </div>
