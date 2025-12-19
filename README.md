@@ -101,6 +101,6 @@
 
 <div align="center">
 
-**Vytvořeno pro kamarády**
+**Soukromý projekt**
 
 </div>
