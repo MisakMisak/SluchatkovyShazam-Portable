@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-**Rozpoznávání hudby hrající na tvém PC. Prostě rozbal a spusť!**
+**Rozpoznávání hudby hrající na tvém PC bez mikrofonu i se sluchátky!**
 
 </div>
 
