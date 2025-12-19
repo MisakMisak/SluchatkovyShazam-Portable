@@ -32,6 +32,12 @@ Rozpoznávání hudby hrající na tvém PC. Prostě rozbal a spusť!
 
 ## Licence
 
-Pro osobní použití. 🤝
+**Proprietary - All Rights Reserved**
+
+Tento software je soukromý projekt. Stahování a použití je povoleno pouze oprávněným osobám s přístupovým heslem.
+
+Jakékoliv neautorizované použití, kopírování nebo distribuce je zakázáno.
+
+© 2025 All rights reserved.
 
 <img width="692" height="630" alt="image" src="https://github.com/user-attachments/assets/9bd0e3b2-30f2-4b1d-a725-aa4ab3ecae78" />
