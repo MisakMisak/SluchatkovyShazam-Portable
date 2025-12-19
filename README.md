@@ -6,8 +6,6 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-**Poznáš konečně tu epickou skladbu z Netflixu! 🎬**
-
 Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchátka!
 *Žádný mikrofon, žádné komplikace. Prostě to funguje.*
 
