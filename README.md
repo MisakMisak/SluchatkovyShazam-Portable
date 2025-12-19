@@ -1,43 +1,106 @@
+<div align="center">
+
 # 🎵 SluchatkovyShazam - Portable
 
-Rozpoznávání hudby hrající na tvém PC. Prostě rozbal a spusť!
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-## Stažení
+**Rozpoznávání hudby hrající na tvém PC. Prostě rozbal a spusť!**
+
+</div>
+
+---
+
+## 📥 Stažení
 
 👉 **[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**
 
-## Instalace
+> [!WARNING]
+> Tento software je dostupný pouze oprávněným uživatelům s přístupovým heslem.
 
-1. Stáhni `SluchatkovyShazam.zip` z [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
-2. Rozbal kamkoliv
-3. Spusť `SluchatkovyShazam.exe`
+## 🚀 Instalace
 
-## Funkce
+1. **Stáhni** `SluchatkovyShazam.zip` z [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
+2. **Rozbal** kamkoliv (doporučeno: `C:\Apps\SluchatkovyShazam\`)
+3. **Spusť** `SluchatkovyShazam.exe`
 
-- 🎧 Rozpoznává hudbu z reproduktorů/sluchátek
-- 🔍 Používá Shazam API
-- 📋 Historie rozpoznaných skladeb
-- 🔗 Odkazy na YouTube, Spotify, Apple Music, Tidal, SoundCloud
-- 📊 Statistiky poslechu
-- 💾 Portabilní - data se ukládají vedle EXE
+> [!TIP]
+> Při prvním spuštění ti Windows Defender může zobrazit varování - to je normální u nepodepsaných aplikací.
 
-## Požadavky
+## ✨ Funkce
 
-- Windows 10/11
-- Žádná instalace, žádné závislosti
+<table>
+<tr>
+<td width="50%">
 
-## Screenshot
+### 🎵 Rozpoznávání
+- **Okamžité** rozpoznání hudby
+- Funguje s **reproduktory i sluchátky**
+- Využívá **Shazam API**
 
-![SluchatkovyShazam](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 📊 Historie & Stats
+- **Kompletní historie** všech skladeb
+- **Statistiky poslechu**
+- Export dat
 
-## Licence
+</td>
+<td width="50%">
 
-**Proprietary - All Rights Reserved**
+### 🔗 Integrace
+- 🎥 **YouTube**
+- 🎧 **Spotify**
+- 🍎 **Apple Music**
+- 🌊 **Tidal**
+- ☁️ **SoundCloud**
 
-Tento software je soukromý projekt. Stahování a použití je povoleno pouze oprávněným osobám s přístupovým heslem.
+### 💾 Portabilní
+- **Žádná instalace**
+- Data vedle EXE
+- Přenosné na USB
 
-Jakékoliv neautorizované použití, kopírování nebo distribuce je zakázáno.
+</td>
+</tr>
+</table>
 
-© 2025 All rights reserved.
+## 📋 Požadavky
 
-<img width="692" height="630" alt="image" src="https://github.com/user-attachments/assets/9bd0e3b2-30f2-4b1d-a725-aa4ab3ecae78" />
+| Kategorie | Požadavek |
+|-----------|-----------|
+| 💻 **Systém** | Windows 10/11 (64-bit) |
+| 📦 **Instalace** | Žádná - spustitelný EXE |
+| 🔌 **Závislosti** | Žádné |
+| 💿 **Místo na disku** | ~15 MB (aplikace) + historie |
+
+## 📸 Screenshot
+
+<div align="center">
+
+<img width="692" height="630" alt="SluchatkovyShazam aplikace" src="https://github.com/user-attachments/assets/9bd0e3b2-30f2-4b1d-a725-aa4ab3ecae78" />
+
+*Moderní a přehledné rozhraní pro rozpoznávání hudby*
+
+</div>
+
+---
+
+## 📄 Licence
+
+> [!IMPORTANT]
+> **Proprietary - All Rights Reserved**
+>
+> Tento software je **soukromý projekt**. Stahování a použití je povoleno pouze oprávněným osobám s přístupovým heslem.
+>
+> ❌ Neautorizované použití zakázáno
+> ❌ Kopírování zakázáno
+> ❌ Distribuce zakázána
+>
+> © 2025 All rights reserved.
+
+---
+
+<div align="center">
+
+**Vytvořeno s ❤️ pro kamarády**
+
+</div>
