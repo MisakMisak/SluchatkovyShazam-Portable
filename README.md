@@ -84,6 +84,44 @@
 
 ---
 
+## 🔐 Soukromí & Bezpečnost
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔒 Ochrana dat
+- **Šifrovaný API klíč** v aplikaci
+- **Lokální úložiště** - žádný cloud
+- **Mazatelná historie** kdykoliv
+- **Bez telemetrie** a trackingu
+
+</td>
+<td width="50%">
+
+### 🛡️ Bezpečnost
+- Aplikace **nepodepsána** certifikátem
+- Windows Defender může **varovat**
+- **Normální chování** u nepodepsaných app
+- Data zůstávají **jen na tvém PC**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📋 Changelog
+
+### 🎯 Verze historie
+
+Aktuální verze dostupná v [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases).
+
+> [!NOTE]
+> Changelog jednotlivých verzí je dostupný v release notes na GitHubu.
+
+---
+
 ## 📄 Licence
 
 > [!IMPORTANT]
