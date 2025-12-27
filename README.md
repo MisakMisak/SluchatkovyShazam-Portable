@@ -39,7 +39,7 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 
 ### 🎵 Rozpoznávání
 - **Soundtracky z filmů a seriálů, live streamy** (Netflix, HBO, Disney+, Twitch, YouTube atd.)
-- **Okamžité** rozpoznání přes **Shazam API**
+- **Okamžité** rozpoznání přes **Shazam API a další..**
 - Zachytává systémový audio výstup
 
 ### 📊 Historie & Stats
