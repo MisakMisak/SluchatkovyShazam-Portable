@@ -8,7 +8,7 @@
 ![Norton](https://img.shields.io/badge/Norton-Verified-green?style=for-the-badge&logo=norton&logoColor=white)
 
 Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když máš sluchátka!
-*Žádný mikrofon, žádná instalace, žádné komplikace. Prostě to funguje.*
+*Žádný mikrofon, žádná instalace, žádné komplikace. Prostě to funguje s čímkoliv, kde ti hraje hudba.*
 
 </div>
 
