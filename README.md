@@ -43,6 +43,9 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 - **Okamžité** rozpoznání přes **Shazam API**
 - Zachytává systémový audio výstup
 
+<img width="679" height="501" alt="image" src="https://github.com/user-attachments/assets/b439e039-2afd-4199-a3ec-562e54d9b8eb" />
+
+
 ### 📊 Historie & Stats
 - **Kompletní historie** všech skladeb
 - **Statistiky poslechu**
