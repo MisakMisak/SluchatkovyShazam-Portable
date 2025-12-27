@@ -70,7 +70,8 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 - Data vedle EXE
 - Přenosné na USB
 
-<img width="610" height="171" alt="image" src="https://github.com/user-attachments/assets/5000e47b-7926-4836-99d3-414d157a477b" />
+<img width="604" height="145" alt="image" src="https://github.com/user-attachments/assets/5f17b361-b972-43de-ba94-9b16b9128692" />
+
 
 
 </td>
