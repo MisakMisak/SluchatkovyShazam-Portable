@@ -42,7 +42,7 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 ### 📊 Historie & Stats
 - **Kompletní historie** všech skladeb
 - **Statistiky poslechu**
-- **Mazání duplicit** jedním kliknutím
+- **Mazání duplicit-stejných skladeb** jedním kliknutím
 - Export dat
 
 <img width="683" height="318" alt="image" src="https://github.com/user-attachments/assets/d98d8257-4bcf-40ed-9ae3-bf736b332823" />
