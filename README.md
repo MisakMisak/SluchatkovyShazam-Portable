@@ -63,7 +63,7 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 
 <img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/0acc7c22-8d72-4d2a-bfe0-295f3f37c862" />
 
-
+<img width="408" height="32" alt="image" src="https://github.com/user-attachments/assets/72d2c890-6c74-4e14-8874-ba8b2ee78bcb" />
 
 ### 💾 Portabilní
 - **Žádná instalace**
