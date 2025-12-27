@@ -21,10 +21,6 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 
 👉 **[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**
 
-> [!WARNING]
-> Soukromý projekt s heslem. Bez hesla se nedostaneš dovnitř. 🔐
-
-
 ## 🚀 Instalace
 
 1. **Stáhni** `SluchatkovyShazam.zip` z [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
