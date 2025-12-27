@@ -5,7 +5,6 @@
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Norton](https://img.shields.io/badge/Norton-Verified-green?style=for-the-badge&logo=norton&logoColor=white)
 
 Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když máš sluchátka!
 *Žádný mikrofon, žádná instalace, žádné komplikace. Prostě to funguje s čímkoliv, kde ti hraje hudba.*
