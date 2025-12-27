@@ -31,9 +31,6 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 2. **Rozbal** kamkoliv (doporučeno: `C:\Apps\SluchatkovyShazam\`)
 3. **Spusť** `SluchatkovyShazam.exe`
 
-> [!TIP]
-> Aplikace prošla skenem **Norton Antivirus** ✅ - je bezpečná a čistá.
-
 ## ✨ Funkce
 
 <table>
