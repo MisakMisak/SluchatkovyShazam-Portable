@@ -25,7 +25,7 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 ## 🚀 Instalace
 
 1. **Stáhni** `SluchatkovyShazam.zip`
-2. **Rozbal** kamkoliv (doporučeno: `C:\Apps\SluchatkovyShazam\`)
+2. **Rozbal** kamkoliv
 3. **Spusť** `SluchatkovyShazam.exe`
 
 ## ✨ Funkce
