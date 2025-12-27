@@ -60,7 +60,8 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 - ☁️ **SoundCloud**
 - 🎵 **Deezer**
 
-<img width="679" height="501" alt="image" src="https://github.com/user-attachments/assets/39bf2ece-a4e0-4015-9b9f-25d4ecb7817d" />
+<img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/0acc7c22-8d72-4d2a-bfe0-295f3f37c862" />
+
 
 
 ### 💾 Portabilní
