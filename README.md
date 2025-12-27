@@ -49,6 +49,11 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 - **Mazání duplicit** jedním kliknutím
 - Export dat
 
+<img width="683" height="318" alt="image" src="https://github.com/user-attachments/assets/d98d8257-4bcf-40ed-9ae3-bf736b332823" />
+
+<img width="684" height="277" alt="image" src="https://github.com/user-attachments/assets/2c516038-b219-4c76-88cf-2e64e573d334" />
+
+
 </td>
 <td width="50%">
 
