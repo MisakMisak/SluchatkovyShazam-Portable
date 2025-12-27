@@ -5,6 +5,7 @@
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Norton](https://img.shields.io/badge/Norton-Verified-green?style=for-the-badge&logo=norton&logoColor=white)
 
 Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchátka!
 *Žádný mikrofon, žádné komplikace. Prostě to funguje.*
@@ -20,6 +21,10 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 > [!WARNING]
 > Soukromý projekt s heslem. Bez hesla se nedostaneš dovnitř. 🔐
 
+> [!NOTE]
+> **Zdrojový kód není dostupný.** Aplikace je distribuována pouze jako zkompilovaný EXE.
+> "Source code" odkazy stahují pouze tento README, ne skutečný kód aplikace.
+
 ## 🚀 Instalace
 
 1. **Stáhni** `SluchatkovyShazam.zip` z [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
@@ -27,7 +32,7 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 3. **Spusť** `SluchatkovyShazam.exe`
 
 > [!TIP]
-> Při prvním spuštění může Windows Defender zobrazit varování. Klikni na "Více informací" → "Přesto spustit". To je normální u soukromých projektů bez certifikátu.
+> Aplikace prošla skenem **Norton Antivirus** ✅ - je bezpečná a čistá.
 
 ## ✨ Funkce
 
@@ -44,6 +49,7 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 ### 📊 Historie & Stats
 - **Kompletní historie** všech skladeb
 - **Statistiky poslechu**
+- **Mazání duplicit** jedním kliknutím
 - Export dat
 
 </td>
@@ -55,6 +61,7 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 - 🍎 **Apple Music**
 - 🌊 **Tidal**
 - ☁️ **SoundCloud**
+- 🎵 **Deezer**
 
 ### 💾 Portabilní
 - **Žádná instalace**
@@ -64,6 +71,53 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 </td>
 </tr>
 </table>
+
+---
+
+## 🗺️ Roadmap - Kam směřujeme
+
+<table>
+<tr>
+<td width="33%">
+
+### 🎯 Fáze 1 (Aktuální)
+**Windows aplikace**
+- ✅ Rozpoznávání hudby
+- ✅ Historie & statistiky
+- ✅ 3D UI efekty
+- ✅ Mazání duplicit
+- ✅ Portable režim
+- ✅ Norton verified
+
+</td>
+<td width="33%">
+
+### ⌨️ Fáze 2 (Připravuje se)
+**Klávesové zkratky**
+- 🔜 Globální hotkeys
+- 🔜 Rozpoznání na stisk klávesy
+- 🔜 Konfigurovatelné zkratky
+- 🔜 Systémová integrace
+
+</td>
+<td width="33%">
+
+### 🎛️ Fáze 3 (Plánováno)
+**Stream Deck integrace**
+- 🔜 Stream Deck plugin
+- 🔜 Rozpoznání na tlačítko
+- 🔜 Zobrazení výsledku na LCD
+- 🔜 Historie na Stream Decku
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> **Vize:** SluchatkovyShazam nebude jen Windows aplikace, ale kompletní ekosystém pro rozpoznávání hudby -
+> od klávesových zkratek po fyzická tlačítka na Stream Decku.
+
+---
 
 ## 📋 Požadavky
 
@@ -80,7 +134,7 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 
 <img width="692" height="630" alt="SluchatkovyShazam aplikace" src="https://github.com/user-attachments/assets/9bd0e3b2-30f2-4b1d-a725-aa4ab3ecae78" />
 
-*Moderní a přehledné rozhraní pro rozpoznávání hudby*
+*Moderní rozhraní s 3D efekty tlačítek*
 
 </div>
 
@@ -102,25 +156,20 @@ Rozpoznávání hudby přímo z filmů, seriálů a her - i když máš sluchát
 <td width="50%">
 
 ### 🛡️ Bezpečnost
-- Aplikace **nepodepsána** certifikátem
-- Windows Defender může **varovat**
-- **Normální chování** u nepodepsaných app
-- Data zůstávají **jen na tvém PC**
+- ✅ **Norton Antivirus verified**
+- **Lokální data** - jen na tvém PC
+- **Žádné odesílání** osobních údajů
+- **Transparentní** - využíváme Shazam API
 
 </td>
 </tr>
 </table>
 
----
-
-## 📋 Changelog
-
-### 🎯 Verze historie
-
-Aktuální verze dostupná v [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases).
-
-> [!NOTE]
-> Changelog jednotlivých verzí je dostupný v release notes na GitHubu.
+> [!IMPORTANT]
+> **Proč není zdrojový kód veřejný?**
+>
+> Respektujeme Shazam a ostatní služby, které využíváme. Zdrojový kód zůstává soukromý,
+> aby nedošlo ke zneužití. Aplikace je určena pouze pro osobní použití mezi přáteli.
 
 ---
 
@@ -151,13 +200,6 @@ Aktuální verze dostupná v [Releases](https://github.com/MisakMisak/Sluchatkov
 </details>
 
 <details>
-<summary><b>Vidí Netflix/streaming služba, že něco zachytávám?</b></summary>
-
-❌ **Ne!** Aplikace jenom "naslouchá" audio výstupu Windows (stejně jako když nahráváš audio z PC). Streaming služba to nijak nedetekuje.
-
-</details>
-
-<details>
 <summary><b>Kde vzít přístupové heslo?</b></summary>
 
 🔒 **Známe se?** Máš ho.
@@ -168,9 +210,18 @@ Soukromý projekt pro kámoše, bez výjimek.
 </details>
 
 <details>
-<summary><b>Ukládá se historie někam do cloudu?</b></summary>
+<summary><b>Proč není zdrojový kód dostupný?</b></summary>
 
-❌ **Ne!** Vše zůstává lokálně na tvém PC. Žádná telemetrie, žádné odesílání dat (kromě dotazů na Shazam API pro rozpoznání).
+🛡️ **Ochrana:** Respektujeme služby které využíváme (Shazam). Nechceme usnadnit zneužití.
+
+📦 **"Source code" linky:** Automaticky generované GitHubem - obsahují pouze tento README, ne skutečný kód.
+
+</details>
+
+<details>
+<summary><b>Je aplikace bezpečná?</b></summary>
+
+✅ **Ano!** Aplikace prošla skenem Norton Antivirus bez problémů. 
 
 </details>
 
@@ -178,33 +229,11 @@ Soukromý projekt pro kámoše, bez výjimek.
 
 ## 🔧 Řešení problémů
 
-### "Aplikace se nespustí / Windows Defender blokuje"
-
-Windows Defender často blokuje nepodepsané aplikace. To je normální chování:
-
-1. Klikni na **"Více informací"**
-2. Klikni na **"Přesto spustit"**
-3. Hotovo ✅
-
-> [!NOTE]
-> Aplikace není podepsaná certifikátem (stojí stovky dolarů ročně). Je to normální u soukromých projektů.
-
 ### "Nerozpozná hudbu z videa"
-
-Zkontroluj následující:
 
 - ✅ **Zvuk opravdu hraje** (i když ztlumený, musí běžet)
 - ✅ **Nech hrát aspoň 5-10 sekund** před pokusem o rozpoznání
-- ✅ **Některé intro/outro skladby jsou krátké** - zkus později v písničce
-- ✅ **Restartuj aplikaci**, pokud jsi změnil audio zařízení (sluchátka)
-
-### "Historie se nesynchronizuje mezi PC"
-
-Aplikace je **portable** - data jsou uložená vedle EXE souboru. Každé PC má vlastní historii.
-
-Pokud chceš sdílet historii:
-1. Zkopíruj celou složku `SluchatkovyShazam` na USB
-2. Nebo použij cloud sync (OneDrive, Dropbox) na složku s aplikací
+- ✅ **Restartuj aplikaci**, pokud jsi změnil audio zařízení
 
 ---
 
@@ -218,7 +247,7 @@ Pokud chceš sdílet historii:
 > **Ale:**
 > - ❌ Nesdílej heslo s cizíma lidma
 > - ❌ Nenahrávej to nikam (torenty, file sharery, atd.)
-> - ❌ Neprodávej to (wtf?)
+> - ❌ Neprodávej to
 >
 > Respektuj to, díky. ✌️
 >
@@ -228,6 +257,6 @@ Pokud chceš sdílet historii:
 
 <div align="center">
 
-**Soukromý projekt**
+**Soukromý projekt** | Využívá **Shazam API** | Made with ❤️
 
 </div>
