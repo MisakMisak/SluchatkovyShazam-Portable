@@ -19,11 +19,11 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 
 ## 📥 Stažení
 
-👉 **[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**
+👉 **[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**  [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
 
 ## 🚀 Instalace
 
-1. **Stáhni** `SluchatkovyShazam.zip` z [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
+1. **Stáhni** `SluchatkovyShazam.zip`
 2. **Rozbal** kamkoliv (doporučeno: `C:\Apps\SluchatkovyShazam\`)
 3. **Spusť** `SluchatkovyShazam.exe`
 
