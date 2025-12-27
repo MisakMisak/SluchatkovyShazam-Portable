@@ -93,7 +93,6 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 - ✅ 3D UI efekty
 - ✅ Mazání duplicit
 - ✅ Portable režim
-- ✅ Norton verified
 
 </td>
 <td width="33%">
