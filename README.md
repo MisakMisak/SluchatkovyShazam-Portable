@@ -126,7 +126,7 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 | 💻 **Systém** | Windows 10/11 (64-bit) |
 | 📦 **Instalace** | Žádná - spustitelný EXE |
 | 🔌 **Závislosti** | Žádné |
-| 💿 **Místo na disku** | ~15 MB (aplikace) + historie |
+| 💿 **Místo na disku** | ~216 MB (aplikace) + historie |
 
 ## 📸 Screenshot
 
