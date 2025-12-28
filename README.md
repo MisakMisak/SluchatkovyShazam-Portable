@@ -11,8 +11,57 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 
 <img width="700" height="571" alt="image" src="https://github.com/user-attachments/assets/29ec7971-36ee-452c-b14f-857ca7cc7741" />
 
-
 </div>
+
+---
+
+## 🔍 Rozpoznávací databáze
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🟢 Shazam
+**Primární databáze**
+
+![Shazam](https://img.shields.io/badge/Shazam-0088FF?style=flat-square&logo=shazam&logoColor=white)
+
+- 🎵 **70+ milionů** skladeb
+- ⚡ Nejrychlejší rozpoznání (~2s)
+- 🌍 Celosvětová hudba
+- 📈 Nejlepší úspěšnost
+
+</td>
+<td width="33%" align="center">
+
+### 🟡 AudD.io
+**Záložní databáze**
+
+![AudD](https://img.shields.io/badge/AudD.io-FF6B35?style=flat-square)
+
+- 🎵 **50+ milionů** skladeb
+- 🔄 Fallback když Shazam selže
+- 🎬 Dobré pro soundtracky
+- 📺 Rozpozná i reklamy
+
+</td>
+<td width="33%" align="center">
+
+### ⚪ Chromaprint
+**Experimentální**
+
+![AcoustID](https://img.shields.io/badge/AcoustID-888888?style=flat-square)
+
+- 🎵 **15+ milionů** skladeb
+- 🆓 Open-source databáze
+- 🎸 Hlavně indie hudba
+- 🔧 Vyžaduje fpcalc
+
+</td>
+</tr>
+</table>
+
+> **Jak to funguje:** Aplikace nejprve zkusí Shazam (nejlepší). Pokud nenajde, automaticky zkouší AudD.io. Většina skladeb se najde na první pokus!
 
 ---
 
@@ -116,4 +165,3 @@ Rozpoznávání hudby přímo z filmů, seriálů, her a streamů - i když má�
 </td>
 </tr>
 </table>
-
