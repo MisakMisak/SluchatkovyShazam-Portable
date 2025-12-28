@@ -92,7 +92,8 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - **Statistiky poslechu**
 - **Mazání duplicit-stejných skladeb** jedním kliknutím
 - Export dat
-
+- Fuguje i v ofline režimu, kdy ukládá wav nahrávky a později dohledá písničky
+  
 <img width="683" height="318" alt="image" src="https://github.com/user-attachments/assets/d98d8257-4bcf-40ed-9ae3-bf736b332823" />
 
 <img width="684" height="277" alt="image" src="https://github.com/user-attachments/assets/2c516038-b219-4c76-88cf-2e64e573d334" />
