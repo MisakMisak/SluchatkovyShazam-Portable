@@ -158,6 +158,8 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </tr>
 </table>
 
+---
+
 Postupný progress pro přidání Stream Deck funkcí - snad ve verzi 1.5 :-)
 
 ---
