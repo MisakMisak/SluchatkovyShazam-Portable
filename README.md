@@ -147,21 +147,12 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 <td width="33%">
 
 ### ⌨️ Fáze 2 (Připravuje se)
-**Klávesové zkratky**
-- 🔜 Globální hotkeys
-- 🔜 Rozpoznání na stisk klávesy
-- 🔜 Konfigurovatelné zkratky
-- 🔜 Systémová integrace
-
-</td>
-<td width="33%">
-
-### 🎛️ Fáze 3 (Plánováno)
 **Stream Deck integrace**
 - 🔜 Stream Deck plugin
 - 🔜 Rozpoznání na tlačítko
 - 🔜 Zobrazení výsledku na LCD
 - 🔜 Historie na Stream Decku
+
 
 </td>
 </tr>
