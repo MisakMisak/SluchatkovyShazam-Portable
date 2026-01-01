@@ -174,6 +174,6 @@ Postupný progress pro přidání Stream Deck funkcí - snad ve verzi 1.5 :-)
 <img width="89" height="94" alt="image" src="https://github.com/user-attachments/assets/c99973df-4cc1-41ae-8ea8-e3b9488eec03" /> ->
 <img width="212" height="43" alt="image" src="https://github.com/user-attachments/assets/0548bf64-5fb6-46f2-98ac-3b28f67043d5" />
 
----
+
 
 <img width="180" height="523" alt="image" src="https://github.com/user-attachments/assets/f9de4525-98a4-49e3-9dd3-0412ea7382e6" />
