@@ -159,10 +159,14 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </table>
 
 Postupný progress pro přidání Stream Deck funkcí - snad ve verzi 1.5 :-)
+
 ---
+
 <img width="441" height="24" alt="image" src="https://github.com/user-attachments/assets/ed3b1a65-c1ec-4e50-90be-06877b54406b" />
 <img width="377" height="49" alt="image" src="https://github.com/user-attachments/assets/8c663112-e084-4dad-beeb-7b508301e1a9" />
+
 ---
+
 <img width="89" height="94" alt="image" src="https://github.com/user-attachments/assets/c99973df-4cc1-41ae-8ea8-e3b9488eec03" />
 <img width="212" height="43" alt="image" src="https://github.com/user-attachments/assets/0548bf64-5fb6-46f2-98ac-3b28f67043d5" />
 
