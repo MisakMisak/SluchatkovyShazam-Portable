@@ -154,7 +154,18 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </td>
 <td width="33%">
 
-### Fáze 2 (Hotovo)
+### Fáze 2 (Připravuje se)
+**Kvalita rozpoznávání**
+- [x] Recognition Architecture v2.0
+- [ ] ACRCloud integrace
+- [ ] Decision Engine (3 vrstvy)
+- [ ] Usage tracking & limity
+- [ ] Signal quality detection
+
+</td>
+<td width="33%">
+
+### Fáze 3 (Připraveno)
 **Stream Deck integrace**
 - [x] Stream Deck plugin v1.0.0
 - [x] Rozpoznání na tlačítko
@@ -162,17 +173,6 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - [x] Nastavení délky (+5s/-5s)
 - [ ] Cover Art na tlačítku
 - [ ] Historie na Stream Decku
-
-</td>
-<td width="33%">
-
-### Fáze 3 (Připravuje se)
-**Kvalita rozpoznávání**
-- [x] Recognition Architecture v2.0
-- [ ] ACRCloud integrace
-- [ ] Decision Engine (3 vrstvy)
-- [ ] Usage tracking & limity
-- [ ] Signal quality detection
 
 </td>
 </tr>
@@ -243,7 +243,7 @@ EMERGENCY (šetři!):
 
 ## Stream Deck Plugin
 
-**Status:** Funkční (v1.0.0)
+**Status:** Funkční (v1.0.0) - součást Fáze 3
 
 ### 12 akcí
 
