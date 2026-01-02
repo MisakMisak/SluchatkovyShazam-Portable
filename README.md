@@ -155,12 +155,16 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 <td width="33%">
 
 ### Fáze 2 (Připravuje se)
-**Kvalita rozpoznávání**
+**Kvalita rozpoznávání + UX**
 - [x] Recognition Architecture v2.0
 - [ ] ACRCloud integrace
 - [ ] Decision Engine (3 vrstvy)
 - [ ] Usage tracking & limity
 - [ ] Signal quality detection
+- [ ] Headless / Tray mód
+- [ ] Fuzzy Search v historii
+- [ ] Lyrics zobrazení
+- [ ] Lokální Cache obrázků
 
 </td>
 <td width="33%">
@@ -173,6 +177,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - [x] Nastavení délky (+5s/-5s)
 - [ ] Cover Art na tlačítku
 - [ ] Historie na Stream Decku
+- [ ] LCD vizualizace
 
 </td>
 </tr>
@@ -180,17 +185,45 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ---
 
-### Fáze 4: UX vylepšení (Plánováno)
+## Technická architektura
 
-| Funkce | Popis | Priorita |
-|--------|-------|----------|
-| **Headless / Tray mód** | Aplikace běží na pozadí v System Tray. Ovládání pouze přes Stream Deck. | 
-| **Fuzzy Search v historii** | Vyhledávací pole v panelu historie. Hledá v názvu, interpretu, albu. | 
-| **Lyrics zobrazení** | Po kliknutí na skladbu zobrazit text písničky (Genius API). |
-| **Lokální Cache obrázků** | Album art uložený offline. Rychlejší načítání, funguje bez internetu. | 
-| **Cover Art na tlačítku** | Album art místo ikony na tlačítku "Skladba" |
-| **Historie na Stream Decku** | Procházení historie přímo na Stream Decku |
-| **LCD vizualizace** | Waveform nebo progress na Stream Deck+ LCD strip |
+### Recognition System v2.0 (3 vrstvy)
+
+```
+┌─────────────────────────────────────────────────────┐
+│  VRSTVA 3: POLICY (limity, kvóty)                   │
+│  "Můžu použít ACRCloud?" → ano/ne                   │
+├─────────────────────────────────────────────────────┤
+│  VRSTVA 2: STRATEGY (pořadí providerů)              │
+│  parallel → fallback → emergency                    │
+├─────────────────────────────────────────────────────┤
+│  VRSTVA 1: PROVIDER ADAPTERS                        │
+│  WAV → FOUND/NOT_FOUND/ERROR + metadata             │
+└─────────────────────────────────────────────────────┘
+```
+
+### Provider Flow
+
+```
+PARALLEL (unlimited):
+├── Shazamio (70M+) ─┬─→ běží současně
+└── Chromaprint      ┘
+         ↓ pokud oba selžou
+FALLBACK (limited):
+└── ACRCloud (100/den, 150M+)
+         ↓ pokud i ACRCloud selže
+EMERGENCY (šetři!):
+└── AudD.io (300 CELKEM!)
+```
+
+### Provider limity
+
+| Provider | Fáze | Limit | Priorita |
+|----------|------|-------|----------|
+| Shazamio | Parallel | Unlimited | 1 |
+| Chromaprint | Parallel | 3 req/s | 2 |
+| ACRCloud | Fallback | 100/den | 5 |
+| AudD.io | Emergency | 300 total! | 50 |
 
 ---
 
@@ -235,6 +268,3 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
-
-
-
