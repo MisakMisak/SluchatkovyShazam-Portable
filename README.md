@@ -194,38 +194,6 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ---
 
-## Technická architektura
-
-### Recognition System v2.0 (3 vrstvy)
-
-```
-┌─────────────────────────────────────────────────────┐
-│  VRSTVA 3: POLICY (limity, kvóty)                   │
-│  "Můžu použít ACRCloud?" → ano/ne                   │
-├─────────────────────────────────────────────────────┤
-│  VRSTVA 2: STRATEGY (pořadí providerů)              │
-│  parallel → fallback → emergency                    │
-├─────────────────────────────────────────────────────┤
-│  VRSTVA 1: PROVIDER ADAPTERS                        │
-│  WAV → FOUND/NOT_FOUND/ERROR + metadata             │
-└─────────────────────────────────────────────────────┘
-```
-
-### Provider Flow
-
-```
-PARALLEL (unlimited):
-├── Shazamio (70M+) ─┬─→ běží současně
-└── Chromaprint      ┘
-         ↓ pokud oba selžou
-FALLBACK (limited):
-└── ACRCloud (100/den, 150M+)
-         ↓ pokud i ACRCloud selže
-EMERGENCY (šetři!):
-└── AudD.io (300 CELKEM!)
-
-```
-
 ## Stream Deck Plugin
 
 **Status:** Funkční (v1.0.0) - součást Fáze 3
@@ -267,5 +235,6 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
 
 
