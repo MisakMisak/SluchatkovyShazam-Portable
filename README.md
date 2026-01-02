@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎵 SluchatkovyShazam - Portable
+# SluchatkovyShazam - Portable
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
@@ -15,172 +15,164 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ---
 
-## 🔍 Rozpoznávací databáze
+## Rozpoznávací databáze
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 🟢 Shazam
+### Shazam
 **Primární databáze**
 
 ![Shazam](https://img.shields.io/badge/Shazam-0088FF?style=flat-square&logo=shazam&logoColor=white)
 
-- 🎵 **70+ milionů** skladeb
-- ⚡ Nejrychlejší rozpoznání (~2s)
-- 🌍 Celosvětová hudba
-- 📈 Nejlepší úspěšnost
+- **70+ milionů** skladeb
+- Nejrychlejší rozpoznání (~2s)
+- Celosvětová hudba
+- Nejlepší úspěšnost
 
 </td>
 <td width="25%" align="center">
 
-### 🟡 AudD.io
+### AudD.io
 **Záložní databáze**
 
 ![AudD](https://img.shields.io/badge/AudD.io-FF6B35?style=flat-square)
 
-- 🎵 **50+ milionů** skladeb
-- 🔄 Fallback když Shazam selže
-- 🎬 Dobré pro soundtracky
-- 📺 Rozpozná i reklamy
+- **50+ milionů** skladeb
+- Fallback když Shazam selže
+- Dobré pro soundtracky
+- Rozpozná i reklamy
 
 </td>
 <td width="25%" align="center">
 
-### ⚪ Chromaprint
+### Chromaprint
 **Experimentální**
 
 ![AcoustID](https://img.shields.io/badge/AcoustID-888888?style=flat-square)
 
-- 🎵 **15+ milionů** skladeb
-- 🆓 Open-source databáze
-- 🎸 Hlavně indie hudba
-- 🔧 Vyžaduje fpcalc
+- **15+ milionů** skladeb
+- Open-source databáze
+- Hlavně indie hudba
+- Vyžaduje fpcalc
 
 </td>
 <td width="25%" align="center">
 
-### 🔵 ACRCloud
-**Připravuje se** 🔜
+### ACRCloud
+**Připravuje se**
 
 ![ACRCloud](https://img.shields.io/badge/ACRCloud-4A90D9?style=flat-square)
 
-- 🎵 **100+ milionů** skladeb
-- 📺 TV pořady & reklamy
-- 🎬 Nejlepší pro soundtracky
-- 📝 Vyžaduje registraci (zdarma)
+- **100+ milionů** skladeb
+- TV pořady & reklamy
+- Nejlepší pro soundtracky
+- Vyžaduje registraci (zdarma)
 
 </td>
 </tr>
 </table>
 
-> **Jak to funguje:** Aplikace nejprve zkusí Shazam (nejlepší). Pokud nenajde, automaticky zkouší AudD.io. Většina skladeb se najde na první pokus!
+> **Jak to funguje:** Aplikace nejprve zkusí Shazam (nejlepší). Pokud nenajde, automaticky zkouší další. Většina skladeb se najde na první pokus!
 
 ---
 
-## 📥 Stažení
-[Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
+## Stažení
 
 **[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**
 
-## 🚀 Instalace
+## Instalace
 
 1. **Stáhni** `SluchatkovyShazam.zip`
 2. **Rozbal** kamkoliv
 3. **Spusť** `SluchatkovyShazam.exe`
 
-## ✨ Funkce
+## Funkce
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎵 Rozpoznávání
+### Rozpoznávání
 - **Soundtracky z filmů a seriálů, live streamů atd.** (Netflix, HBO, Disney+, Twitch, YouTube atd.)
 - **Okamžité** rozpoznání přes **Shazam API a další..**
 - Zachytává systémový audio výstup
 
-### 📊 Historie & Stats
+### Historie & Stats
 - **Kompletní historie** všech skladeb
 - **Statistiky poslechu**
-- **Mazání duplicit-stejných skladeb** jedním kliknutím
+- **Mazání duplicit** jedním kliknutím
 - Export dat
-- Fuguje i v ofline režimu, kdy ukládá wav nahrávky a později dohledá písničky
+- Funguje i offline (ukládá nahrávky)
 
 <img width="683" height="318" alt="image" src="https://github.com/user-attachments/assets/d98d8257-4bcf-40ed-9ae3-bf736b332823" />
-
-<img width="684" height="277" alt="image" src="https://github.com/user-attachments/assets/2c516038-b219-4c76-88cf-2e64e573d334" />
-
 
 </td>
 <td width="50%">
 
-### 🔗 Integrace
-- 🎥 **YouTube**
-- 🎧 **Spotify**
-- 🍎 **Apple Music**
-- 🌊 **Tidal**
-- ☁️ **SoundCloud**
-- 🎵 **Deezer**
+### Integrace
+- **YouTube**
+- **Spotify**
+- **Apple Music**
+- **Tidal**
+- **SoundCloud**
+- **Deezer**
 
 <img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/0acc7c22-8d72-4d2a-bfe0-295f3f37c862" />
 
-<img width="408" height="32" alt="image" src="https://github.com/user-attachments/assets/72d2c890-6c74-4e14-8874-ba8b2ee78bcb" />
-
-### 💾 Portabilní
+### Portabilní
 - **Žádná instalace**
 - Data vedle EXE
 - Přenosné na USB
 
 <img width="604" height="145" alt="image" src="https://github.com/user-attachments/assets/5f17b361-b972-43de-ba94-9b16b9128692" />
 
-<img width="223" height="54" alt="image" src="https://github.com/user-attachments/assets/3d8e8115-d72a-4579-a907-5a1dcfb9beb8" />
-
 </td>
 </tr>
 </table>
 
 ---
 
-## 🗺️ Roadmap - Kam směřujeme
+## Roadmap - Kam směřujeme
 
 <table>
 <tr>
 <td width="33%">
 
-### 🎯 Fáze 1 (Aktuální)
+### Fáze 1 (Hotovo)
 **Windows aplikace**
-- ✅ Rozpoznávání hudby
-- ✅ Historie & statistiky
-- ✅ 3D UI efekty
-- ✅ Mazání duplicit
-- ✅ Portable režim
-- ✅ FFT Spectrum Analyzer
-- ✅ Audio preprocessing
-- ✅ Multi-provider fallback
+- [x] Rozpoznávání hudby
+- [x] Historie & statistiky
+- [x] 3D UI efekty
+- [x] Mazání duplicit
+- [x] Portable režim
+- [x] FFT Spectrum Analyzer
+- [x] Audio preprocessing
+- [x] Multi-provider fallback
 
 </td>
 <td width="33%">
 
-### ⌨️ Fáze 2 (Hotovo! ✅)
+### Fáze 2 (Hotovo)
 **Stream Deck integrace**
-- ✅ Stream Deck plugin
-- ✅ Rozpoznání na tlačítko
-- ✅ 12 akcí (Hledat, Copy, platformy...)
-- ✅ Nastavení délky (+5s/-5s)
-- 🔜 Zobrazení výsledku na LCD
-- 🔜 Historie na Stream Decku
+- [x] Stream Deck plugin v1.0.0
+- [x] Rozpoznání na tlačítko
+- [x] 12 akcí (Hledat, Copy, platformy...)
+- [x] Nastavení délky (+5s/-5s)
+- [ ] Cover Art na tlačítku
+- [ ] Historie na Stream Decku
 
 </td>
 <td width="33%">
 
-### 🚀 Fáze 3 (Připravuje se)
+### Fáze 3 (Připravuje se)
 **Kvalita rozpoznávání**
-- 🔜 ACRCloud integrace
-- 🔜 Decision Engine
-- 🔜 Signal quality detection
-- 🔜 Optimalizace providerů
-- 🔜 Automatická délka nahrávky
+- [x] Recognition Architecture v2.0
+- [ ] ACRCloud integrace
+- [ ] Decision Engine (3 vrstvy)
+- [ ] Usage tracking & limity
+- [ ] Signal quality detection
 
 </td>
 </tr>
@@ -188,53 +180,105 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ---
 
-### 📋 Fáze 3 - Detailní plán
+### Fáze 4: UX vylepšení (Plánováno)
 
-<details>
-<summary><b>Klikni pro zobrazení plánu Fáze 3</b></summary>
+| Funkce | Popis | Priorita |
+|--------|-------|----------|
+| **Headless / Tray mód** | Aplikace běží na pozadí v System Tray. Ovládání pouze přes Stream Deck. | Vysoká |
+| **Fuzzy Search v historii** | Vyhledávací pole v panelu historie. Hledá v názvu, interpretu, albu. | Střední |
+| **Lyrics zobrazení** | Po kliknutí na skladbu zobrazit text písničky (Genius API). | Střední |
+| **Lokální Cache obrázků** | Album art uložený offline. Rychlejší načítání, funguje bez internetu. | Střední |
 
-#### Etapa 3.1: Quick Wins
-- [ ] Fix parallel execution bug
-- [ ] Optimalizace pořadí providerů
-- [ ] Šetření AudD.io limitu (300 req celkem!)
+### Fáze 5: Stream Deck v2.0 (Plánováno)
 
-#### Etapa 3.2: ACRCloud integrace
-- [ ] Registrace na ACRCloud (free tier)
-- [ ] Implementace acrcloud_provider.py
-- [ ] Testy s různými typy obsahu
-
-#### Etapa 3.3: Decision Engine
-- [ ] providers.json konfigurace
-- [ ] Inteligentní výběr providera
-- [ ] Hard exclusion pravidla
-- [ ] Soft scoring vzorec
-
-#### Etapa 3.4: Signal Quality
-- [ ] RMS level detection
-- [ ] Automatické prodloužení při slabém signálu
-- [ ] UI feedback
-
-</details>
+| Funkce | Popis |
+|--------|-------|
+| **Cover Art na tlačítku** | Album art místo ikony na tlačítku "Skladba" |
+| **Historie na Stream Decku** | Procházení historie přímo na Stream Decku |
+| **LCD vizualizace** | Waveform nebo progress na Stream Deck+ LCD strip |
 
 ---
 
-Postupný progress pro přidání Stream Deck funkcí - snad ve verzi 2.0 :-)
+## Technická architektura
 
-<table>
-<tr>
-<td width="33%">
+### Recognition System v2.0 (3 vrstvy)
 
-<img width="441" height="24" alt="image" src="https://github.com/user-attachments/assets/ed3b1a65-c1ec-4e50-90be-06877b54406b" /> ->
-<img width="377" height="49" alt="image" src="https://github.com/user-attachments/assets/8c663112-e084-4dad-beeb-7b508301e1a9" />
+```
+┌─────────────────────────────────────────────────────┐
+│  VRSTVA 3: POLICY (limity, kvóty)                   │
+│  "Můžu použít ACRCloud?" → ano/ne                   │
+├─────────────────────────────────────────────────────┤
+│  VRSTVA 2: STRATEGY (pořadí providerů)              │
+│  parallel → fallback → emergency                    │
+├─────────────────────────────────────────────────────┤
+│  VRSTVA 1: PROVIDER ADAPTERS                        │
+│  WAV → FOUND/NOT_FOUND/ERROR + metadata             │
+└─────────────────────────────────────────────────────┘
+```
 
+### Provider Flow
 
+```
+PARALLEL (unlimited):
+├── Shazamio (70M+) ─┬─→ běží současně
+└── Chromaprint      ┘
+         ↓ pokud oba selžou
+FALLBACK (limited):
+└── ACRCloud (100/den, 150M+)
+         ↓ pokud i ACRCloud selže
+EMERGENCY (šetři!):
+└── AudD.io (300 CELKEM!)
+```
 
-<img width="89" height="94" alt="image" src="https://github.com/user-attachments/assets/c99973df-4cc1-41ae-8ea8-e3b9488eec03" /> ->
-<img width="212" height="43" alt="image" src="https://github.com/user-attachments/assets/0548bf64-5fb6-46f2-98ac-3b28f67043d5" />
+### Provider limity
 
+| Provider | Fáze | Limit | Priorita |
+|----------|------|-------|----------|
+| Shazamio | Parallel | Unlimited | 1 |
+| Chromaprint | Parallel | 3 req/s | 2 |
+| ACRCloud | Fallback | 100/den | 5 |
+| AudD.io | Emergency | 300 total! | 50 |
 
+---
 
-<img width="180" height="523" alt="image" src="https://github.com/user-attachments/assets/f9de4525-98a4-49e3-9dd3-0412ea7382e6" />
-</td>
-</tr>
-</table>
+## Stream Deck Plugin
+
+**Status:** Funkční (v1.0.0)
+
+### 12 akcí
+
+| Akce | Funkce |
+|------|--------|
+| **Hledat** | Spustí nahrávání a rozpoznávání |
+| **Kopírovat** | Zkopíruje skladbu do schránky |
+| **Skladba** | Zobrazuje rozpoznanou skladbu |
+| **Délka** | Zobrazuje délku nahrávání |
+| **+5s / -5s** | Upraví délku nahrávání |
+| **YouTube** | Otevře skladbu na YouTube |
+| **Spotify** | Otevře skladbu na Spotify |
+| **Tidal** | Otevře skladbu na Tidal |
+| **Apple Music** | Otevře skladbu na Apple Music |
+| **Deezer** | Otevře skladbu na Deezer |
+| **SoundCloud** | Otevře skladbu na SoundCloud |
+
+<img width="180" height="523" alt="Stream Deck actions" src="https://github.com/user-attachments/assets/f9de4525-98a4-49e3-9dd3-0412ea7382e6" />
+
+---
+
+## API Server
+
+Aplikace obsahuje FastAPI server na portu **8764** pro komunikaci se Stream Deckem.
+
+```
+GET  /api/health           - Health check
+GET  /api/status           - Stav aplikace
+POST /api/record           - Spustit nahrávání
+GET  /api/result/last      - Poslední skladba
+GET  /api/config/duration  - Délka nahrávání
+POST /api/config/duration/plus   - +5s
+POST /api/config/duration/minus  - -5s
+```
+
+---
+
+**Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
