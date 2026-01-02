@@ -146,7 +146,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </td>
 <td width="33%">
 
-### ⌨️ Fáze 2 (Připravuje se)
+### ⌨️ Fáze 2 (Připravuje se a testuje)
 **Stream Deck integrace**
 - 🔜 Stream Deck plugin
 - 🔜 Rozpoznání na tlačítko
