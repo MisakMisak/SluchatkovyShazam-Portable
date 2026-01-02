@@ -74,8 +74,6 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </tr>
 </table>
 
-> **Jak to funguje:** Aplikace nejprve zkusí Shazam (nejlepší). Pokud nenajde, automaticky zkouší další. Většina skladeb se najde na první pokus!
-
 ---
 
 ## Stažení
@@ -226,6 +224,7 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
 
 
 
