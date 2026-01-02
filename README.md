@@ -93,38 +93,38 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 <td width="50%">
 
 ### Rozpoznávání
-- **Soundtracky z filmů a seriálů, live streamů atd.** (Netflix, HBO, Disney+, Twitch, YouTube atd.)
-- **Okamžité** rozpoznání přes **Shazam API a další..**
+- **Soundtracky z filmů a seriálů** (Netflix, HBO, Disney+...)
+- **Live streamy** (Twitch, YouTube...)
+- **Okamžité** rozpoznání přes 4 databáze
 - Zachytává systémový audio výstup
 
-### Historie & Stats
-- **Kompletní historie** všech skladeb
-- **Statistiky poslechu**
-- **Mazání duplicit** jedním kliknutím
-- Export dat
-- Funguje i offline (ukládá nahrávky)
+### 🎵 Texty skladeb (NOVINKA!)
+- **Automatické načtení** textu po rozpoznání
+- **Překlad do češtiny** jedním kliknutím
+- Scrollovatelné zobrazení i dlouhých textů
 
 <img width="683" height="318" alt="image" src="https://github.com/user-attachments/assets/d98d8257-4bcf-40ed-9ae3-bf736b332823" />
 
 </td>
 <td width="50%">
 
+### Historie & Stats
+- **Kompletní historie** všech skladeb
+- **3 skladby** v přehledném zobrazení
+- **Mazání duplicit** jedním kliknutím
+- Klikni na skladbu → všechny možnosti
+
 ### Integrace
-- **YouTube**
-- **Spotify**
-- **Apple Music**
-- **Tidal**
-- **SoundCloud**
-- **Deezer**
+- **YouTube** - okamžitě přehrát
+- **Spotify** - přidat do knihovny
+- **Apple Music, Tidal, Deezer, SoundCloud**
 
 <img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/0acc7c22-8d72-4d2a-bfe0-295f3f37c862" />
 
 ### Portabilní
-- **Žádná instalace**
+- **Žádná instalace** - rozbal a spusť
 - Data vedle EXE
 - Přenosné na USB
-
-<img width="604" height="145" alt="image" src="https://github.com/user-attachments/assets/5f17b361-b972-43de-ba94-9b16b9128692" />
 
 </td>
 </tr>
@@ -158,12 +158,12 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 ✅ 3-vrstvá architektura<br>
 ✅ Parallel processing<br>
 ✅ LCD Pipeline vizualizace<br>
-✅ Modulární kód<br>
+✅ Texty skladeb<br>
+✅ Překlad do češtiny<br>
+✅ Větší historie (3 skladby)<br>
 ⬚ ACRCloud integrace<br>
-⬚ Usage tracking & limity<br>
 ⬚ Headless / Tray mód<br>
-⬚ Fuzzy Search v historii<br>
-⬚ Lyrics zobrazení
+⬚ Fuzzy Search v historii
 
 </td>
 <td width="33%" valign="top">
