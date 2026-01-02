@@ -136,46 +136,46 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Fáze 1 (Hotovo)
-**Windows aplikace**
- ✅ Rozpoznávání hudby
- ✅ Historie & statistiky
- ✅ 3D UI efekty
- ✅ Mazání duplicit
- ✅ Portable režim
- ✅ FFT Spectrum Analyzer
- ✅ Audio preprocessing
- ✅ Multi-provider fallback
+**Windows aplikace**<br>
+✅ Rozpoznávání hudby<br>
+✅ Historie & statistiky<br>
+✅ 3D UI efekty<br>
+✅ Mazání duplicit<br>
+✅ Portable režim<br>
+✅ FFT Spectrum Analyzer<br>
+✅ Audio preprocessing<br>
+✅ Multi-provider fallback
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Fáze 2 (Připravuje se)
-**Kvalita rozpoznávání + UX**
- ✅ Recognition Architecture v2.0
- [ ] ACRCloud integrace
- [ ] Decision Engine (3 vrstvy)
- [ ] Usage tracking & limity
- [ ] Signal quality detection
- [ ] Headless / Tray mód
- [ ] Fuzzy Search v historii
- [ ] Lyrics zobrazení
- [ ] Lokální Cache obrázků
+**Kvalita rozpoznávání + UX**<br>
+✅ Recognition Architecture v2.0<br>
+⬚ ACRCloud integrace<br>
+⬚ Decision Engine (3 vrstvy)<br>
+⬚ Usage tracking & limity<br>
+⬚ Signal quality detection<br>
+⬚ Headless / Tray mód<br>
+⬚ Fuzzy Search v historii<br>
+⬚ Lyrics zobrazení<br>
+⬚ Lokální Cache obrázků
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### Fáze 3 (Přijde ve verze 2.0)
-**Stream Deck integrace**
- ✅ Stream Deck plugin v1.0.0
- ✅ Rozpoznání na tlačítko
- ✅ 12 akcí (Hledat, Copy, platformy...)
- ✅ Nastavení délky (+5s/-5s)
- [ ] Cover Art na tlačítku
- [ ] Historie na Stream Decku
- [ ] LCD vizualizace
+**Stream Deck integrace**<br>
+✅ Stream Deck plugin v1.0.0<br>
+✅ Rozpoznání na tlačítko<br>
+✅ 12 akcí (Hledat, Copy, platformy...)<br>
+✅ Nastavení délky (+5s/-5s)<br>
+⬚ Cover Art na tlačítku<br>
+⬚ Historie na Stream Decku<br>
+⬚ LCD vizualizace
 
 </td>
 </tr>
