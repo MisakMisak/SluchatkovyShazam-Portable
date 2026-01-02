@@ -184,15 +184,10 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 | Funkce | Popis | Priorita |
 |--------|-------|----------|
-| **Headless / Tray mód** | Aplikace běží na pozadí v System Tray. Ovládání pouze přes Stream Deck. | Vysoká |
-| **Fuzzy Search v historii** | Vyhledávací pole v panelu historie. Hledá v názvu, interpretu, albu. | Střední |
-| **Lyrics zobrazení** | Po kliknutí na skladbu zobrazit text písničky (Genius API). | Střední |
-| **Lokální Cache obrázků** | Album art uložený offline. Rychlejší načítání, funguje bez internetu. | Střední |
-
-### Fáze 5: Stream Deck v2.0 (Plánováno)
-
-| Funkce | Popis |
-|--------|-------|
+| **Headless / Tray mód** | Aplikace běží na pozadí v System Tray. Ovládání pouze přes Stream Deck. | 
+| **Fuzzy Search v historii** | Vyhledávací pole v panelu historie. Hledá v názvu, interpretu, albu. | 
+| **Lyrics zobrazení** | Po kliknutí na skladbu zobrazit text písničky (Genius API). |
+| **Lokální Cache obrázků** | Album art uložený offline. Rychlejší načítání, funguje bez internetu. | 
 | **Cover Art na tlačítku** | Album art místo ikony na tlačítku "Skladba" |
 | **Historie na Stream Decku** | Procházení historie přímo na Stream Decku |
 | **LCD vizualizace** | Waveform nebo progress na Stream Deck+ LCD strip |
@@ -282,3 +277,4 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
