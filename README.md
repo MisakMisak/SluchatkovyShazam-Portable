@@ -34,41 +34,41 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </td>
 <td width="25%" align="center">
 
-### AudD.io
-**Záložní databáze**
-
-![AudD](https://img.shields.io/badge/AudD.io-FF6B35?style=flat-square)
-
-- **50+ milionů** skladeb
-- Fallback když Shazam selže
-- Dobré pro soundtracky
-- Rozpozná i reklamy
-
-</td>
-<td width="25%" align="center">
-
 ### Chromaprint
-**Experimentální**
+**Paralelní databáze**
 
 ![AcoustID](https://img.shields.io/badge/AcoustID-888888?style=flat-square)
 
 - **15+ milionů** skladeb
 - Open-source databáze
-- Hlavně indie hudba
-- Vyžaduje fpcalc
+- Běží současně se Shazam
+- Indie & alternativa
 
 </td>
 <td width="25%" align="center">
 
 ### ACRCloud
-**(Připravuje se do verze 1.5.0)**
+**Fallback databáze**
 
 ![ACRCloud](https://img.shields.io/badge/ACRCloud-4A90D9?style=flat-square)
 
 - **100+ milionů** skladeb
 - TV pořady & reklamy
 - Nejlepší pro soundtracky
-- Vyžaduje registraci (zdarma)
+- Aktivuje se při selhání
+
+</td>
+<td width="25%" align="center">
+
+### AudD.io
+**Záchranná databáze**
+
+![AudD](https://img.shields.io/badge/AudD.io-FF6B35?style=flat-square)
+
+- **50+ milionů** skladeb
+- Poslední možnost
+- Dobré pro soundtracky
+- Rozpozná i reklamy
 
 </td>
 </tr>
@@ -152,27 +152,29 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </td>
 <td width="33%" valign="top">
 
-### Fáze 2 (Připravuje se)
+### Fáze 2 (v1.5.0)
 **Kvalita rozpoznávání + UX**<br>
 ✅ Recognition Architecture v2.0<br>
+✅ 3-vrstvá architektura<br>
+✅ Parallel processing<br>
+✅ LCD Pipeline vizualizace<br>
+✅ Modulární kód<br>
 ⬚ ACRCloud integrace<br>
-⬚ Decision Engine (3 vrstvy)<br>
 ⬚ Usage tracking & limity<br>
-⬚ Signal quality detection<br>
 ⬚ Headless / Tray mód<br>
 ⬚ Fuzzy Search v historii<br>
-⬚ Lyrics zobrazení<br>
-⬚ Lokální Cache obrázků
+⬚ Lyrics zobrazení
 
 </td>
 <td width="33%" valign="top">
 
-### Fáze 3 (Přijde ve verze 2.0)
+### Fáze 3 (v1.5.0)
 **Stream Deck integrace**<br>
 ✅ Stream Deck plugin v1.0.0<br>
 ✅ Rozpoznání na tlačítko<br>
-✅ 12 akcí (Hledat, Copy, platformy...)<br>
+✅ 12 akcí (Hledat, Copy...)<br>
 ✅ Nastavení délky (+5s/-5s)<br>
+✅ API server (port 8764)<br>
 ⬚ Cover Art na tlačítku<br>
 ⬚ Historie na Stream Decku<br>
 ⬚ LCD vizualizace
@@ -185,7 +187,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ## Stream Deck Plugin
 
-**Status:** Funkční (v0.8.0) - součást Fáze 3 - verze 2.0
+**Status:** Funkční (v1.0.0)
 
 <table>
 <tr>
@@ -232,5 +234,8 @@ POST /api/config/duration/minus  - -5s
 
 ---
 
-**Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+## Licence
 
+Osobní použití zdarma. Úpravy a redistribuce pouze se svolením.
+
+**Verze:** 1.5.0 | [Plná licence](LICENSE)
