@@ -185,9 +185,16 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ## Stream Deck Plugin
 
-**Status:** Funkční (v0.8.0) - součást Fáze 3 - verze 2.0
+**Status:** Funkční (v1.0.0) - součást Fáze 3
 
-### 12 akcí
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img width="180" alt="Stream Deck actions" src="https://github.com/user-attachments/assets/f9de4525-98a4-49e3-9dd3-0412ea7382e6" />
+
+</td>
+<td width="70%">
 
 | Akce | Funkce |
 |------|--------|
@@ -203,7 +210,9 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 | **Deezer** | Otevře skladbu na Deezer |
 | **SoundCloud** | Otevře skladbu na SoundCloud |
 
-<img width="180" height="523" alt="Stream Deck actions" src="https://github.com/user-attachments/assets/f9de4525-98a4-49e3-9dd3-0412ea7382e6" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -224,10 +233,3 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
-
-
-
-
-
-
-
