@@ -168,7 +168,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </td>
 <td width="33%" valign="top">
 
-### Fáze 3 (v1.5.0)
+### Fáze 3 (v2.0.0)
 **Stream Deck integrace**<br>
 ✅ Stream Deck plugin v1.0.0<br>
 ✅ Rozpoznání na tlačítko<br>
