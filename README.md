@@ -19,7 +19,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🟢 Shazam
 **Primární databáze**
@@ -32,7 +32,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - 📈 Nejlepší úspěšnost
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🟡 AudD.io
 **Záložní databáze**
@@ -45,7 +45,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - 📺 Rozpozná i reklamy
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### ⚪ Chromaprint
 **Experimentální**
@@ -58,6 +58,19 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - 🔧 Vyžaduje fpcalc
 
 </td>
+<td width="25%" align="center">
+
+### 🔵 ACRCloud
+**Připravuje se** 🔜
+
+![ACRCloud](https://img.shields.io/badge/ACRCloud-4A90D9?style=flat-square)
+
+- 🎵 **100+ milionů** skladeb
+- 📺 TV pořady & reklamy
+- 🎬 Nejlepší pro soundtracky
+- 📝 Vyžaduje registraci (zdarma)
+
+</td>
 </tr>
 </table>
 
@@ -68,7 +81,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 ## 📥 Stažení
 [Releases](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases)
 
-**[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**  
+**[Stáhnout nejnovější verzi](https://github.com/MisakMisak/SluchatkovyShazam-Portable/releases/latest)**
 
 ## 🚀 Instalace
 
@@ -93,7 +106,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - **Mazání duplicit-stejných skladeb** jedním kliknutím
 - Export dat
 - Fuguje i v ofline režimu, kdy ukládá wav nahrávky a později dohledá písničky
-  
+
 <img width="683" height="318" alt="image" src="https://github.com/user-attachments/assets/d98d8257-4bcf-40ed-9ae3-bf736b332823" />
 
 <img width="684" height="277" alt="image" src="https://github.com/user-attachments/assets/2c516038-b219-4c76-88cf-2e64e573d334" />
@@ -142,21 +155,66 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 - ✅ 3D UI efekty
 - ✅ Mazání duplicit
 - ✅ Portable režim
+- ✅ FFT Spectrum Analyzer
+- ✅ Audio preprocessing
+- ✅ Multi-provider fallback
 
 </td>
 <td width="33%">
 
-### ⌨️ Fáze 2 (Připravuje se a testuje)
+### ⌨️ Fáze 2 (Hotovo! ✅)
 **Stream Deck integrace**
 - ✅ Stream Deck plugin
 - ✅ Rozpoznání na tlačítko
+- ✅ 12 akcí (Hledat, Copy, platformy...)
+- ✅ Nastavení délky (+5s/-5s)
 - 🔜 Zobrazení výsledku na LCD
 - 🔜 Historie na Stream Decku
 
+</td>
+<td width="33%">
+
+### 🚀 Fáze 3 (Připravuje se)
+**Kvalita rozpoznávání**
+- 🔜 ACRCloud integrace
+- 🔜 Decision Engine
+- 🔜 Signal quality detection
+- 🔜 Optimalizace providerů
+- 🔜 Automatická délka nahrávky
 
 </td>
 </tr>
 </table>
+
+---
+
+### 📋 Fáze 3 - Detailní plán
+
+<details>
+<summary><b>Klikni pro zobrazení plánu Fáze 3</b></summary>
+
+#### Etapa 3.1: Quick Wins
+- [ ] Fix parallel execution bug
+- [ ] Optimalizace pořadí providerů
+- [ ] Šetření AudD.io limitu (300 req celkem!)
+
+#### Etapa 3.2: ACRCloud integrace
+- [ ] Registrace na ACRCloud (free tier)
+- [ ] Implementace acrcloud_provider.py
+- [ ] Testy s různými typy obsahu
+
+#### Etapa 3.3: Decision Engine
+- [ ] providers.json konfigurace
+- [ ] Inteligentní výběr providera
+- [ ] Hard exclusion pravidla
+- [ ] Soft scoring vzorec
+
+#### Etapa 3.4: Signal Quality
+- [ ] RMS level detection
+- [ ] Automatické prodloužení při slabém signálu
+- [ ] UI feedback
+
+</details>
 
 ---
 
@@ -165,7 +223,7 @@ Postupný progress pro přidání Stream Deck funkcí - snad ve verzi 2.0 :-)
 <table>
 <tr>
 <td width="33%">
-  
+
 <img width="441" height="24" alt="image" src="https://github.com/user-attachments/assets/ed3b1a65-c1ec-4e50-90be-06877b54406b" /> ->
 <img width="377" height="49" alt="image" src="https://github.com/user-attachments/assets/8c663112-e084-4dad-beeb-7b508301e1a9" />
 
@@ -177,3 +235,6 @@ Postupný progress pro přidání Stream Deck funkcí - snad ve verzi 2.0 :-)
 
 
 <img width="180" height="523" alt="image" src="https://github.com/user-attachments/assets/f9de4525-98a4-49e3-9dd3-0412ea7382e6" />
+</td>
+</tr>
+</table>
