@@ -148,8 +148,8 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ### ⌨️ Fáze 2 (Připravuje se a testuje)
 **Stream Deck integrace**
-- 🔜 Stream Deck plugin
-- 🔜 Rozpoznání na tlačítko
+- ✅ Stream Deck plugin
+- ✅ Rozpoznání na tlačítko
 - 🔜 Zobrazení výsledku na LCD
 - 🔜 Historie na Stream Decku
 
