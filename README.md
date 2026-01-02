@@ -187,7 +187,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ## Stream Deck Plugin
 
-**Status:** Funkční (v0.9.0) - součást Fáze 3 - verze 2.0
+**Status:** Funkční (v0.8.0) - součást Fáze 3 - verze 2.0
 
 ### 12 akcí
 
@@ -226,6 +226,7 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
 
 
 
