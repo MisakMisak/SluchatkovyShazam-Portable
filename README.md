@@ -61,7 +61,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 <td width="25%" align="center">
 
 ### ACRCloud
-**(Připravuje se)**
+**(Připravuje se do verzi 1.5.0)**
 
 ![ACRCloud](https://img.shields.io/badge/ACRCloud-4A90D9?style=flat-square)
 
@@ -226,6 +226,7 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
 
 
 
