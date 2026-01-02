@@ -223,18 +223,8 @@ FALLBACK (limited):
          ↓ pokud i ACRCloud selže
 EMERGENCY (šetři!):
 └── AudD.io (300 CELKEM!)
+
 ```
-
-### Provider limity
-
-| Provider | Fáze | Limit | Priorita |
-|----------|------|-------|----------|
-| Shazamio | Parallel | Unlimited | 1 |
-| Chromaprint | Parallel | 3 req/s | 2 |
-| ACRCloud | Fallback | 100/den | 5 |
-| AudD.io | Emergency | 300 total! | 50 |
-
----
 
 ## Stream Deck Plugin
 
@@ -277,4 +267,5 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
 
