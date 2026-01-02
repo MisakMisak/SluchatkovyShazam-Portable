@@ -140,21 +140,21 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ### Fáze 1 (Hotovo)
 **Windows aplikace**
-- [x] Rozpoznávání hudby
-- [x] Historie & statistiky
-- [x] 3D UI efekty
-- [x] Mazání duplicit
-- [x] Portable režim
-- [x] FFT Spectrum Analyzer
-- [x] Audio preprocessing
-- [x] Multi-provider fallback
+- ✅ Rozpoznávání hudby
+- ✅ Historie & statistiky
+- ✅ 3D UI efekty
+- ✅ Mazání duplicit
+- ✅ Portable režim
+- ✅ FFT Spectrum Analyzer
+- ✅ Audio preprocessing
+- ✅ Multi-provider fallback
 
 </td>
 <td width="33%">
 
 ### Fáze 2 (Připravuje se)
 **Kvalita rozpoznávání + UX**
-- [x] Recognition Architecture v2.0
+- ✅ Recognition Architecture v2.0
 - [ ] ACRCloud integrace
 - [ ] Decision Engine (3 vrstvy)
 - [ ] Usage tracking & limity
@@ -169,10 +169,10 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ### Fáze 3 (Přijde ve verze 2.0)
 **Stream Deck integrace**
-- [x] Stream Deck plugin v1.0.0
-- [x] Rozpoznání na tlačítko
-- [x] 12 akcí (Hledat, Copy, platformy...)
-- [x] Nastavení délky (+5s/-5s)
+- ✅ Stream Deck plugin v1.0.0
+- ✅ Rozpoznání na tlačítko
+- ✅ 12 akcí (Hledat, Copy, platformy...)
+- ✅ Nastavení délky (+5s/-5s)
 - [ ] Cover Art na tlačítku
 - [ ] Historie na Stream Decku
 - [ ] LCD vizualizace
