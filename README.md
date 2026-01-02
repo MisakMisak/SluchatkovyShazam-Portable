@@ -169,7 +169,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 </td>
 <td width="33%">
 
-### Fáze 3 (Připraveno)
+### Fáze 3 (Přijde ve verze 2.0)
 **Stream Deck integrace**
 - [x] Stream Deck plugin v1.0.0
 - [x] Rozpoznání na tlačítko
@@ -226,5 +226,6 @@ POST /api/config/duration/minus  - -5s
 ---
 
 **Verze:** 1.4.0 | **Licence:** Proprietary | **Autor:** MisakMisak
+
 
 
