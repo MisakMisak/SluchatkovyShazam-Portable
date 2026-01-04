@@ -34,15 +34,6 @@ V dashboard projektu najdete:
 - **Access Key** - zkopírujte
 - **Access Secret** - zkopírujte
 
-### Krok 4: Vložte do aplikace
-1. V SluchatkovyShazam otevřete **Nastavení** (ozubené kolečko)
-2. Klikněte **API Klíče**
-3. Vyplňte ACRCloud Access Key a Access Secret
-4. Klikněte **Uložit**
-
-✅ Zelené kolečko u ACRCloud = správně nakonfigurováno
-
----
 
 ## AcoustID / Chromaprint (20+ milionů skladeb)
 
@@ -59,13 +50,6 @@ Open-source databáze napojená na MusicBrainz. Dobrá pro méně známou hudbu.
 
 ### Krok 2: Zkopírujte API klíč
 Po registraci se zobrazí váš **API Key** - zkopírujte ho.
-
-### Krok 3: Vložte do aplikace
-1. V SluchatkovyShazam → **Nastavení** → **API Klíče**
-2. Vyplňte AcoustID API Key
-3. Klikněte **Uložit**
-
-✅ Zelené kolečko u AcoustID = správně nakonfigurováno
 
 ---
 
