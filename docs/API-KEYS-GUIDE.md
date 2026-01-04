@@ -58,6 +58,7 @@ Po registraci se zobrazí váš **API Key** - zkopírujte ho.
 Po uložení klíčů v dialogu API Klíče uvidíte:
 - 🟢 Zelené kolečko = databáze je funkční
 - 🔴 Červené kolečko = chybí klíč nebo nefunguje
+<img width="393" height="46" alt="image" src="https://github.com/user-attachments/assets/02b0af9b-008b-48b9-8ab4-e31336e39153" />
 
 ---
 
