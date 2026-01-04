@@ -23,25 +23,21 @@ Profesionální služba s vysokou přesností (~95%). Free tier: ~100 rozpoznán
 3. Vyplňte formulář a potvrďte email
 
 ### Krok 2: Vytvoření projektu
-1. Po přihlášení klikněte **Create Project**
-2. Vyplňte nastavení: 
+1. Po přihlášení uvidíte tuhle stránku a klidnetě sem <img width="756" height="374" alt="image" src="https://github.com/user-attachments/assets/d6cc9c45-1035-4f41-ad62-53bebdcbb395" />
 
-| Pole | Hodnota |
-|------|---------|
-| **Project Name** | SluchatkovyShazam |
-| **Audio Source** | **Recorded Audio** |
-| **Audio Engine** | Audio Fingerprinting |
-| **Buckets** | ACRCloud Music |
+2. Klikněte na panel v levo a pak na  **Create Project** <img width="1464" height="420" alt="image" src="https://github.com/user-attachments/assets/e22ae59d-c24c-4c81-b546-f9a96418eadf" />
 
-3. V sekci **3rd Party ID Integration** zaškrtněte:
+3. Vyplňte nastavení: <img width="1277" height="745" alt="image" src="https://github.com/user-attachments/assets/b673ef29-69cf-472c-8587-86ee8888702a" />
+
+4. V sekci **3rd Party ID Integration** zaškrtněte:
    - ☑️ spotify
    - ☑️ deezer  
    - ☑️ youtube
    - ☑️ isrc
    - ☑️ upc
 
-4. Zaškrtněte **Include Works**
-5. Klikněte **Create**
+5. Zaškrtněte **Include Works**
+6. Klikněte **Create**
 
 ### Krok 3: Zkopírujte klíče
 V dashboard projektu najdete:
