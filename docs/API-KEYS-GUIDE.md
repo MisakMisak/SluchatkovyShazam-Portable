@@ -29,16 +29,6 @@ Profesionální služba s vysokou přesností (~95%). Free tier: ~100 rozpoznán
 
 3. Vyplňte nastavení: <img width="1277" height="745" alt="image" src="https://github.com/user-attachments/assets/b673ef29-69cf-472c-8587-86ee8888702a" />
 
-4. V sekci **3rd Party ID Integration** zaškrtněte:
-   - ☑️ spotify
-   - ☑️ deezer  
-   - ☑️ youtube
-   - ☑️ isrc
-   - ☑️ upc
-
-5. Zaškrtněte **Include Works**
-6. Klikněte **Create**
-
 ### Krok 3: Zkopírujte klíče
 V dashboard projektu najdete:
 - **Access Key** - zkopírujte
