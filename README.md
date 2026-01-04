@@ -9,7 +9,8 @@
 Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluchátka!
 *Žádný mikrofon, žádná instalace, žádné komplikace. Prostě to funguje s čímkoliv, kde ti hraje hudba.*
 
-<img width="700" height="571" alt="image" src="https://github.com/user-attachments/assets/29ec7971-36ee-452c-b14f-857ca7cc7741" />
+<img width="700" height="659" alt="image" src="https://github.com/user-attachments/assets/35661af7-59d8-43cd-aaf1-5f95deb62f43" />
+
 
 </div>
 
