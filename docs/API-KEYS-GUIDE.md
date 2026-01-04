@@ -24,7 +24,7 @@ Profesionální služba s vysokou přesností (~95%). Free tier: ~100 rozpoznán
 
 ### Krok 2: Vytvoření projektu
 1. Po přihlášení klikněte **Create Project**
-2. Vyplňte nastavení:
+2. Vyplňte nastavení: 
 
 | Pole | Hodnota |
 |------|---------|
@@ -67,6 +67,9 @@ Open-source databáze napojená na MusicBrainz. Dobrá pro méně známou hudbu.
 2. Přihlaste se pomocí MusicBrainz účtu (nebo si ho vytvořte)
 3. Vyplňte **Application Name**: `SluchatkovyShazam`
 4. Klikněte **Register**
+
+<img width="909" height="468" alt="image" src="https://github.com/user-attachments/assets/a7cc00c3-4a9f-4021-95e0-9f30a601d8b9" />
+
 
 ### Krok 2: Zkopírujte API klíč
 Po registraci se zobrazí váš **API Key** - zkopírujte ho.
