@@ -40,7 +40,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ![AcoustID](https://img.shields.io/badge/AcoustID-888888?style=flat-square)
 
-- **15+ milionů** skladeb
+- **20+ milionů** skladeb
 - Open-source databáze
 - Běží současně se Shazam
 - Indie & alternativa
@@ -53,7 +53,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ![ACRCloud](https://img.shields.io/badge/ACRCloud-4A90D9?style=flat-square)
 
-- **100+ milionů** skladeb
+- **150+ milionů** skladeb
 - TV pořady & reklamy
 - Nejlepší pro soundtracky
 - Aktivuje se při selhání
@@ -66,7 +66,7 @@ Rozpoznávání hudby z filmů, seriálů, her a streamů - i když máš sluch�
 
 ![AudD](https://img.shields.io/badge/AudD.io-FF6B35?style=flat-square)
 
-- **50+ milionů** skladeb
+- **80+ milionů** skladeb
 - Poslední možnost
 - Dobré pro soundtracky
 - Rozpozná i reklamy
